@@ -8,7 +8,8 @@ The Earthquake App is a mobile application built using React Native and JavaScri
 
 ## Screenshots
 
-![Screenshot_20230831-104806_Expo Go](https://github.com/ihsanberkozcan/earthquake-mobile/assets/59116996/c7188d22-a4c2-4860-b0a1-62a753d2ad46)
+![Screenshot_20230831-104806_Expo Go](https://github.com/ihsanberkozcan/earthquake-mobile/assets/59116996/fdf5a867-9821-45bd-9e4d-bd33e5be59bb)
+
 
 ## Authors
 
